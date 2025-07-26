@@ -14,7 +14,7 @@ Quick Start Prerequisites
 
 Node.js 16+ npm or yarn Google Gemini API key
 
-Installation bash# Clone the repository git clone https://github.com/yourusername/eduai-study-buddy.git
+Installation bash# Clone the repository git clone https://github.com/9059Rohith/eduai-study-buddy.git
 
 Navigate to project directory
 cd eduai-study-buddy
